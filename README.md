@@ -1,6 +1,6 @@
-<a href="https://burn001.github.io"><img src="avatar.png" alt="Voxel avatar of Sang Kyu Cho coding at a standing desk with a hologram monitor" width="280" align="right"></a>
+<a href="https://burn001.github.io"><img src="avatar.png" alt="Voxel avatar of Sangkyu Cho coding at a standing desk with a hologram monitor" width="280" align="right"></a>
 
-### Sang Kyu Cho, Ph.D. (Dr.Egg)
+### Sangkyu Cho, Ph.D. (Dr.Egg)
 
 Senior Research Fellow at the [Architecture & Urban Research Institute (AURI)](https://www.auri.re.kr), Korea. I research smart cities, green buildings and cities, and building and urban information systems.
 
