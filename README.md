@@ -1,17 +1,18 @@
-<a href="https://burn001.github.io"><img src="avatar.png" alt="Voxel avatar of Sangkyu Cho coding at a standing desk with a hologram monitor" width="280" align="right"></a>
+<a href="https://burn001.github.io"><img src="avatar.png" alt="Voxel avatar of Sang Kyu Cho coding at a standing desk with a hologram monitor" width="280" align="right"></a>
 
-### Hi, I'm Sangkyu Cho (Dr.Egg)
+### Sang Kyu Cho, Ph.D. (Dr.Egg)
 
-Data scientist at the [Architecture & Urban Research Institute (AURI)](https://www.auri.re.kr) in Korea. I work with data on cities, buildings and public policy, and build tools that let AI coding agents do research work in the open.
+Senior Research Fellow at the [Architecture & Urban Research Institute (AURI)](https://www.auri.re.kr), Korea. I research smart cities, green buildings and cities, and building and urban information systems.
 
-- **Now building:** [Agent4D](https://github.com/burn001/agent4d) — see what your Claude Code agents are doing, live in 3D, then replay it.
-- **Interests:** urban & building policy data · Korean public data · expert surveys (AHP, Delphi) · AI coding agents · 3D visualization
-- **Elsewhere:** [burn001.github.io](https://burn001.github.io) · [Threads @cho.sangkyu](https://www.threads.com/@cho.sangkyu)
+- **Research system:** [ALRIS](https://alris.auri.re.kr) — AI Legal and Regulatory Intelligence System, an AI service that answers questions about Korean building law with cited provisions (2023 Archilaw → 2025 ALRIS).
+- **Side project:** [Agent4D](https://github.com/burn001/agent4d) — see what your Claude Code agents are doing, live in 3D, then replay it.
+- **Fields:** smart cities · green buildings & cities · building & urban information systems · AI for building law
+- **More:** [burn001.github.io](https://burn001.github.io) (CV, papers, projects) · [Threads @cho.sangkyu](https://www.threads.com/@cho.sangkyu)
 
 <details>
 <summary>한국어</summary>
 
-건축공간연구원(AURI)에서 도시·건축·공공정책 데이터를 다루고, AI 코딩 에이전트가 연구 업무를 하는 모습을 그대로 볼 수 있는 도구를 만듭니다. 지금은 Claude Code 에이전트의 작업을 3D로 실시간 보고 다시 재생하는 [Agent4D](https://github.com/burn001/agent4d)를 만들고 있습니다. 개인 페이지: [burn001.github.io](https://burn001.github.io/?lang=ko)
+건축공간연구원 건축혁신본부 선임연구위원입니다. 스마트시티, 녹색건축·도시, 건축·도시정보체계를 연구하고, 건축법령 질문에 근거 조문과 함께 답하는 인공지능 건축법령 서비스 [ALRIS](https://alris.auri.re.kr)를 만들고 있습니다. 개인 프로젝트로 Claude Code 에이전트의 작업을 3D로 보여 주는 [Agent4D](https://github.com/burn001/agent4d)를 공개했습니다. 이력·논문·연구: [burn001.github.io](https://burn001.github.io/?lang=ko)
 
 </details>
 <br clear="right">
